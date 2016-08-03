@@ -2,6 +2,7 @@ name: BidLayer
 favicon: null
 layout_spectrum: 0.13407042133621871
 typography_spectrum: 0.40646945289336145
+title: BidLayer
 cta:
   domain: null
   bucket: null
