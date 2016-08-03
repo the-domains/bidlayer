@@ -1,0 +1,28 @@
+name: BidLayer
+favicon: null
+layout_spectrum: 0.13407042133621871
+typography_spectrum: 0.40646945289336145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5760162661317736
+  lightness: 0.4644621249753982
+  saturation: 0.13826288236305118
+  rhythmicContrast: 0.9535528642591089
+purpose: []
